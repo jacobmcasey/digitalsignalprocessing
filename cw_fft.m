@@ -1,5 +1,5 @@
-% EEE3004 Jacob Casey. DSP Coursework. ECG Analysis %
-%          Start date 20/12/2020 20:23              %
+%         Jacob Casey.  |  ECG Analysis.            % 
+%          Start date 20/12/2020 20:23.             %
 
 %Matlab cleaning
 clc;
